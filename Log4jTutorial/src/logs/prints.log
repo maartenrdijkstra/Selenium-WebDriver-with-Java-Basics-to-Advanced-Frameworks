@@ -1,0 +1,7 @@
+17:07:48.740 [main] ERROR alpha.Demo - Button is not displayed
+17:07:48.744 [main] ERROR alpha.Demo - I am stating an error log
+17:07:48.744 [main] ERROR alpha.Demo - object is not present
+17:08:44.280 [main] DEBUG beta.Demo1 - I am debugging
+17:08:44.285 [main] ERROR beta.Demo1 - I am stating an error log
+17:08:44.285 [main] ERROR beta.Demo1 - object is not present
+17:08:44.285 [main] INFO  beta.Demo1 - Object is present

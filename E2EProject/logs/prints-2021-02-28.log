@@ -1,0 +1,196 @@
+19:00:54.286 [TestNG-tests-1] INFO  academy.Base - Closed HomePageTest Test
+19:00:54.735 [TestNG-tests-3] INFO  academy.Base - Closed ValidateNavigationBar Test
+19:03:22.371 [TestNG-tests-3] INFO  academy.Base - Driver is initialized
+19:03:22.371 [TestNG-tests-2] INFO  academy.Base - Driver is initialized
+19:03:22.371 [TestNG-tests-1] INFO  academy.Base - Driver is initialized
+19:03:29.037 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+19:03:32.475 [TestNG-tests-2] INFO  academy.Base - Navigated to Home Page
+19:03:33.280 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+19:03:36.290 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+19:03:36.450 [TestNG-tests-2] INFO  academy.Base - Closed ValidateTitle Test
+19:03:38.427 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+19:03:41.297 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+19:03:43.734 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+19:03:43.815 [TestNG-tests-1] INFO  academy.Base - Closed HomePageTest Test
+19:03:46.608 [TestNG-tests-3] INFO  academy.Base - Closed ValidateNavigationBar Test
+19:05:52.865 [main] INFO  academy.Base - Driver is initialized
+19:05:57.715 [main] INFO  academy.Base - Navigated to Home Page
+19:05:59.675 [main] INFO  academy.Base - Successfully attempted to login
+19:06:02.367 [main] INFO  academy.Base - Navigated to Home Page
+19:06:03.889 [main] INFO  academy.Base - Successfully attempted to login
+19:06:06.586 [main] INFO  academy.Base - Navigated to Home Page
+19:06:08.376 [main] INFO  academy.Base - Successfully attempted to login
+19:06:08.507 [main] INFO  academy.Base - Closed HomePageTest Test
+19:06:46.230 [TestNG-tests-1] INFO  academy.Base - Driver is initialized
+19:06:46.232 [TestNG-tests-3] INFO  academy.Base - Driver is initialized
+19:06:46.230 [TestNG-tests-2] INFO  academy.Base - Driver is initialized
+19:06:53.396 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+19:06:55.482 [TestNG-tests-2] INFO  academy.Base - Navigated to Home Page
+19:06:55.508 [TestNG-tests-3] INFO  academy.Base - Navigation Bar is displayed
+19:06:55.614 [TestNG-tests-3] INFO  academy.Base - Closed ValidateNavigationBar Test
+19:06:58.114 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+19:06:58.792 [TestNG-tests-2] INFO  academy.Base - Closed ValidateTitle Test
+19:07:00.667 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+19:07:02.599 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+19:07:05.089 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+19:07:06.619 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+19:07:06.713 [TestNG-tests-1] INFO  academy.Base - Closed HomePageTest Test
+19:17:14.577 [TestNG-tests-1] INFO  academy.Base - Driver is initialized
+19:17:14.581 [TestNG-tests-2] INFO  academy.Base - Driver is initialized
+19:17:14.582 [TestNG-tests-3] INFO  academy.Base - Driver is initialized
+19:17:24.757 [TestNG-tests-2] INFO  academy.Base - Navigated to Home Page
+19:17:25.045 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+19:17:25.880 [TestNG-tests-3] INFO  academy.Base - Navigation Bar is displayed
+19:17:26.039 [TestNG-tests-3] INFO  academy.Base - Closed ValidateNavigationBar Test
+19:17:27.763 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+19:17:28.907 [TestNG-tests-2] INFO  academy.Base - Closed ValidateTitle Test
+19:17:31.100 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+19:17:34.134 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+19:17:36.587 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+19:17:39.084 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+19:17:39.247 [TestNG-tests-1] INFO  academy.Base - Closed HomePageTest Test
+21:20:46.015 [TestNG-tests-3] INFO  academy.Base - Driver is initialized
+21:20:46.063 [TestNG-tests-1] INFO  academy.Base - Driver is initialized
+21:20:46.308 [TestNG-tests-2] INFO  academy.Base - Driver is initialized
+21:20:54.500 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+21:20:56.493 [TestNG-tests-2] INFO  academy.Base - Navigated to Home Page
+21:20:56.869 [TestNG-tests-3] INFO  academy.Base - Navigation Bar is displayed
+21:20:56.940 [TestNG-tests-3] INFO  academy.Base - Closed ValidateNavigationBar Test
+21:20:57.507 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+21:20:59.973 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+21:21:00.135 [TestNG-tests-2] INFO  academy.Base - Closed ValidateTitle Test
+21:21:01.746 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+21:21:03.909 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+21:21:05.454 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+21:21:05.563 [TestNG-tests-1] INFO  academy.Base - Closed HomePageTest Test
+22:25:13.775 [TestNG-tests-1] INFO  academy.Base - Driver is initialized
+22:25:13.774 [TestNG-tests-3] INFO  academy.Base - Driver is initialized
+22:25:13.803 [TestNG-tests-2] INFO  academy.Base - Driver is initialized
+22:25:21.566 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+22:25:22.201 [TestNG-tests-3] INFO  academy.Base - Navigation Bar is displayed
+22:25:24.780 [TestNG-tests-2] INFO  academy.Base - Navigated to Home Page
+22:25:25.488 [TestNG-tests-3] INFO  academy.Base - Closed ValidateNavigationBar Test
+22:25:26.738 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+22:25:30.110 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+22:25:31.530 [TestNG-tests-2] INFO  academy.Base - Closed ValidateTitle Test
+22:25:31.597 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+22:25:33.300 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+22:25:34.548 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+22:25:35.235 [TestNG-tests-1] INFO  academy.Base - Closed HomePageTest Test
+22:36:50.785 [TestNG-tests-3] INFO  academy.Base - Driver is initialized
+22:36:57.833 [TestNG-tests-3] INFO  academy.Base - Navigation Bar is displayed
+22:36:58.059 [TestNG-tests-3] INFO  academy.Base - Closed ValidateNavigationBar Test
+22:49:19.837 [TestNG-tests-3] INFO  academy.Base - Driver is initialized
+22:49:24.437 [TestNG-tests-3] INFO  academy.Base - Navigation Bar is displayed
+22:49:24.518 [TestNG-tests-3] INFO  academy.Base - Closed ValidateNavigationBar Test
+22:57:22.476 [TestNG-tests-1] INFO  academy.Base - Driver is initialized
+22:57:22.508 [TestNG-tests-3] INFO  academy.Base - Driver is initialized
+22:57:22.579 [TestNG-tests-2] INFO  academy.Base - Driver is initialized
+22:57:32.373 [TestNG-tests-2] INFO  academy.Base - Navigated to Home Page
+22:57:32.871 [TestNG-tests-3] INFO  academy.Base - Navigation Bar is displayed
+22:57:34.871 [TestNG-tests-3] INFO  academy.Base - Closed ValidateNavigationBar Test
+22:57:36.472 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+22:57:38.670 [TestNG-tests-2] INFO  academy.Base - Closed ValidateTitle Test
+22:57:42.164 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+22:57:44.630 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+22:57:47.217 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+22:57:48.438 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+22:57:49.369 [TestNG-tests-1] INFO  academy.Base - Closed HomePageTest Test
+23:03:35.020 [TestNG-tests-1] INFO  academy.Base - Driver is initialized
+23:03:35.020 [TestNG-tests-3] INFO  academy.Base - Driver is initialized
+23:03:35.092 [TestNG-tests-2] INFO  academy.Base - Driver is initialized
+23:03:53.906 [TestNG-tests-3] INFO  academy.Base - Navigation Bar is displayed
+23:03:53.977 [TestNG-tests-2] INFO  academy.Base - Navigated to Home Page
+23:03:54.660 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+23:03:56.419 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+23:03:57.542 [TestNG-tests-3] INFO  academy.Base - Closed ValidateNavigationBar Test
+23:03:58.695 [TestNG-tests-2] INFO  academy.Base - Closed ValidateTitle Test
+23:04:51.332 [TestNG-tests-1] INFO  academy.Base - Closed HomePageTest Test
+23:07:04.996 [TestNG-tests-2] INFO  academy.Base - Driver is initialized
+23:07:04.993 [TestNG-tests-1] INFO  academy.Base - Driver is initialized
+23:07:05.067 [TestNG-tests-3] INFO  academy.Base - Driver is initialized
+23:07:20.493 [TestNG-tests-2] INFO  academy.Base - Navigated to Home Page
+23:07:20.533 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+23:07:20.908 [TestNG-tests-3] INFO  academy.Base - Navigation Bar is displayed
+23:07:23.135 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+23:07:24.124 [TestNG-tests-3] INFO  academy.Base - Closed ValidateNavigationBar Test
+23:07:27.514 [TestNG-tests-2] INFO  academy.Base - Closed ValidateTitle Test
+23:08:03.007 [TestNG-tests-1] INFO  academy.Base - Closed HomePageTest Test
+23:10:41.930 [TestNG-tests-1] INFO  academy.Base - Driver is initialized
+23:10:41.940 [TestNG-tests-2] INFO  academy.Base - Driver is initialized
+23:10:42.023 [TestNG-tests-3] INFO  academy.Base - Driver is initialized
+23:10:56.160 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+23:10:57.400 [TestNG-tests-2] INFO  academy.Base - Navigated to Home Page
+23:10:57.702 [TestNG-tests-3] INFO  academy.Base - Navigation Bar is displayed
+23:10:58.991 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+23:11:00.491 [TestNG-tests-3] INFO  academy.Base - Closed ValidateNavigationBar Test
+23:11:03.265 [TestNG-tests-2] INFO  academy.Base - Closed ValidateTitle Test
+23:11:39.639 [TestNG-tests-1] INFO  academy.Base - Closed HomePageTest Test
+23:20:39.989 [TestNG-tests-2] INFO  academy.Base - Driver is initialized
+23:20:39.989 [TestNG-tests-1] INFO  academy.Base - Driver is initialized
+23:20:39.990 [TestNG-tests-3] INFO  academy.Base - Driver is initialized
+23:20:50.824 [TestNG-tests-2] INFO  academy.Base - Navigated to Home Page
+23:20:50.887 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+23:20:57.593 [TestNG-tests-3] INFO  academy.Base - Navigation Bar is displayed
+23:20:59.705 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+23:21:02.507 [TestNG-tests-3] INFO  academy.Base - Closed ValidateNavigationBar Test
+23:21:03.468 [TestNG-tests-2] INFO  academy.Base - Closed ValidateTitle Test
+23:21:04.517 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+23:21:18.539 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+23:21:24.324 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+23:21:38.275 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+23:21:38.977 [TestNG-tests-1] INFO  academy.Base - Closed HomePageTest Test
+23:23:04.113 [TestNG-tests-1] INFO  academy.Base - Driver is initialized
+23:23:04.112 [TestNG-tests-2] INFO  academy.Base - Driver is initialized
+23:23:04.120 [TestNG-tests-3] INFO  academy.Base - Driver is initialized
+23:23:12.541 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+23:23:13.987 [TestNG-tests-2] INFO  academy.Base - Navigated to Home Page
+23:23:18.721 [TestNG-tests-3] INFO  academy.Base - Navigation Bar is displayed
+23:23:18.970 [TestNG-tests-2] INFO  academy.Base - Successfully validated Text Message
+23:23:20.240 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+23:23:20.571 [TestNG-tests-3] INFO  academy.Base - Closed ValidateNavigationBar Test
+23:23:20.919 [TestNG-tests-2] INFO  academy.Base - Closed ValidateTitle Test
+23:23:25.085 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+23:23:39.168 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+23:23:44.370 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+23:23:58.071 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+23:23:58.756 [TestNG-tests-1] INFO  academy.Base - Closed HomePageTest Test
+14:43:09.715 [TestNG-tests-1] INFO  academy.Base - Driver is initialized
+14:43:09.716 [TestNG-tests-3] INFO  academy.Base - Driver is initialized
+14:43:09.716 [TestNG-tests-2] INFO  academy.Base - Driver is initialized
+14:44:20.949 [TestNG-tests-2] INFO  academy.Base - Driver is initialized
+14:44:20.949 [TestNG-tests-3] INFO  academy.Base - Driver is initialized
+14:44:20.949 [TestNG-tests-1] INFO  academy.Base - Driver is initialized
+14:44:26.178 [TestNG-tests-2] INFO  academy.Base - Navigated to Home Page
+14:44:26.189 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+14:44:32.072 [TestNG-tests-2] INFO  academy.Base - Successfully validated Text Message
+14:44:32.151 [TestNG-tests-2] INFO  academy.Base - Closed ValidateTitle Test
+14:44:32.195 [TestNG-tests-3] INFO  academy.Base - Navigation Bar is displayed
+14:44:32.252 [TestNG-tests-3] INFO  academy.Base - Closed ValidateNavigationBar Test
+14:44:34.424 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+14:44:37.834 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+14:44:50.938 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+14:44:53.233 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+14:45:06.462 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+14:45:06.528 [TestNG-tests-1] INFO  academy.Base - Closed HomePageTest Test
+15:00:25.697 [TestNG-tests-3] INFO  academy.Base - Driver is initialized
+15:00:25.769 [TestNG-tests-2] INFO  academy.Base - Driver is initialized
+15:00:27.871 [TestNG-tests-1] INFO  academy.Base - Driver is initialized
+15:00:35.768 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+15:00:37.856 [TestNG-tests-2] INFO  academy.Base - Navigated to Home Page
+15:00:39.064 [TestNG-tests-3] INFO  academy.Base - Navigation Bar is displayed
+15:00:41.238 [TestNG-tests-3] INFO  academy.Base - Closed ValidateNavigationBar Test
+15:00:43.952 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+15:00:44.123 [TestNG-tests-2] INFO  academy.Base - Successfully validated Text Message
+15:00:45.982 [TestNG-tests-2] INFO  academy.Base - Closed ValidateTitle Test
+15:00:50.387 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+15:01:03.916 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+15:01:12.552 [TestNG-tests-1] INFO  academy.Base - Navigated to Home Page
+15:01:26.630 [TestNG-tests-1] INFO  academy.Base - Successfully attempted to login
+15:01:27.223 [TestNG-tests-1] INFO  academy.Base - Closed HomePageTest Test
+16:34:33.069 [main] INFO  academy.Base - Driver is initialized
+16:34:45.879 [main] INFO  academy.Base - Navigated to Home Page
+16:34:46.061 [main] INFO  academy.Base - Successfully validated Text Message
+16:34:46.141 [main] INFO  academy.Base - Closed ValidateTitle Test
+16:37:09.275 [main] INFO  academy.Base - Driver is initialized
+16:37:27.591 [main] INFO  academy.Base - Navigated to Home Page
